@@ -31,6 +31,11 @@ CD into the project folder:
 cd lenovo_js
 ```
 
+Install the Node packages
+```
+npm install --save
+```
+
 Render the webpage to get all the data
 ```
 nodemon .\server.js
