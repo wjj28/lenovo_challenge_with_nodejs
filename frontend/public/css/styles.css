@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #22222f;
+    text-align: center;
+  }
+
+h1{
+    margin: auto;
+    padding-top: 240px;
+    color: ghostwhite;
+}
+
+
